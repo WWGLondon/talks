@@ -14,3 +14,5 @@
 
 [Testing strategies for microservice architectures](/2023_August/Adelina_Simion-Testing_strategies.pdf) with Adelina Simion
 > Experienced developers know that a comprehensive testing strategy is vital to a healthy microservice architecture. However, as the system grows and changes without any central oversight, the complexity of our test scenarios dramatically
+
+Code: https://github.com/addetz/testing-strategies-demo
