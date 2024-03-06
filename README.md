@@ -1,5 +1,13 @@
 # Talks from our meetups
 
+## 2024
+## February @ Deliveroo
+[Platforms from Prototype to Production](/2024_February/Sanyia_Saidova-Platforms_from_Prototype_to_Production.pdf) with Sanyia Saidova
+> Sanya walks us through the journey of how to shape your platform to account for growth in your application - what decisions lay in your path as your userbase grows and how to weight them.
+
+[Contract testing for the past, present and the future with Pact-Go](/2024_February/Yousaf_Nabi-Contract_testing_for_the_past_present_and_the_future_with_Pact-Go.pdf) with Yousaf Nabi
+> How do we test our applications now, what are the benefits and drawbacks of each way of testing and how does integration fit into all of it. Yousaf explains it all and provides examples on how to start contract testing with Go and Pact.
+
 ## 2023
 ## September @ Elastic
 [Go-ing Gopher Hunting with Elasticsearch and Go](/2023_September/Carly_Richmond-Gopher_Hunting_Elasticsearch.pdf) with Carly Richmond
